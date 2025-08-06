@@ -9,7 +9,7 @@ body {
 
 main {
     width: 20rem;
-    margin: 170px auto;
+    margin: 10rem auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +21,7 @@ main {
 
 .image {
     width: 90%;
-    margin: 15px auto;
+    margin: 1rem auto;
 }
 
 .image img {
